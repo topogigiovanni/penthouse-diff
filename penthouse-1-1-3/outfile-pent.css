@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body,
+html {
+  font-size: 14px;
+}
+
+body {
+  letter-spacing: 0;
+  min-width: 320px;
+  -webkit-transform: none;
+  transform: none;
+}
